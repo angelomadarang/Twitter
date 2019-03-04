@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/1x0mKOmjPj.gif' />
+<img src='http://g.recordit.co/kFQaZhpblD.gif' />
 
 
 
@@ -53,7 +53,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ## log in and logout
-<img src='http://g.recordit.co/V36TVBx6Hb.gif' />
+<img src='http://g.recordit.co/ehe7YFddZi.gif' />
 
 ## Refresh and Infinite Scroll 
-<img src='http://g.recordit.co/xsjlnemGcb.gif' />
+<img src='http://g.recordit.co/HDMmxo8l0b.gif' />
